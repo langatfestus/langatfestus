@@ -4,8 +4,7 @@
 I am a software engineer with a passion for building efficient and scalable web applications.
 
 # What I Do
-Junior Back-end Software Engineer
-Freelancer
+Software Engineer
 Web and Mobile App Developer
 # Tech Stacks
 Languages: Python, Django, Java Script, Java, Kotlin
